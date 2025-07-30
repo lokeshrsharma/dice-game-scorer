@@ -58,6 +58,7 @@ Total simulation took 0.03 seconds.
 
 ```bash
 npm test                    # All tests
+npm run test:unit           # unit tets only
 npm run test:integration    # Integration tests only
 ```
 
